@@ -1,7 +1,7 @@
 hexo-pdf
 ====
 
-Hexo tag for embed pdf
+Hexo tag for embeded pdf
 
 ## Install
 
