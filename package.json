@@ -1,11 +1,20 @@
 {
   "name": "hexo-pdf",
   "version": "1.0.0",
-  "description": "Hexo tag for pdf.js",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "A Hexo tag extension which allows you to embed pdf on your posts",
+  "main": "index",
+  "engines": {
+    "node": ">= 0.10.0"
   },
-  "author": "",
-  "license": "Apache-2.0"
+  "repository": "http://github.com/superalsrk/hexo-pdf",
+  "keywords": [
+    "hexo",
+    "pdf",
+    "tag"
+  ],
+  "author": "SRK.Lyu <superalsrk@gmail.com> (http://stackbox.org)",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^1.0.0"
+  }
 }

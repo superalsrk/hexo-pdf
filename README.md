@@ -1,4 +1,20 @@
 hexo-pdf
 ====
 
-Hexo tag for pdf.js
+Hexo tag for embed pdf
+
+## Install
+
+```
+$ npm install --save hexo-pdf
+```
+
+
+## Usage
+
+```
+{% pdf http://7xov2f.com1.z0.glb.clouddn.com/bash_freshman.pdf %}
+```
+
+## Note
+Thie online pdf viewer is [Nagland/viewer](https://github.com/Nagland/viewer)
