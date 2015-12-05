@@ -18,3 +18,7 @@ $ npm install --save hexo-pdf
 
 ## Note
 Thie online pdf viewer is [Nagland/viewer](https://github.com/Nagland/viewer)
+
+## Preview
+
+![](hexo-pdf-preview.png)
