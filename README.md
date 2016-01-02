@@ -1,5 +1,7 @@
 hexo-pdf
 ====
+![MIT](https://img.shields.io/npm/l/express.svg)
+![VERSION](https://img.shields.io/badge/version-1.1.0-green.svg)
 
 Hexo tag for embeded pdf
 
