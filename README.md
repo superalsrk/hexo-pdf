@@ -12,13 +12,28 @@ $ npm install --save hexo-pdf
 
 ## Usage
 
+### Normal PDF
+
 ```
 {% pdf http://7xov2f.com1.z0.glb.clouddn.com/bash_freshman.pdf %}
 ```
 
-## Note
-Thie online pdf viewer is [Nagland/viewer](https://github.com/Nagland/viewer)
+### Google drive
+```
+{% pdf https://drive.google.com/file/d/0B6qSwdwPxPRdTEliX0dhQ2JfUEU/preview %}
+```
 
+### Slideshare
+```
+{% pdf http://www.slideshare.net/slideshow/embed_code/key/8Jl0hUt2OKUOOE %}
+```
 ## Preview
 
-![](hexo-pdf-preview.png)
+### Normal PDF
+![](screenshot/hexo-pdf-preview.png)
+
+### Google drive
+![](screenshot/hexo-googledrive-pdf.png)
+
+### Slideshare
+![](screenshot/hexo-slideshare-pdf.png)
