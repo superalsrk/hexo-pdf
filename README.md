@@ -20,6 +20,11 @@ $ npm install --save hexo-pdf
 {% pdf http://7xov2f.com1.z0.glb.clouddn.com/bash_freshman.pdf %}
 ```
 
+or
+```
+{% pdf ./bash_freshman.pdf %}
+```
+
 ### Google drive
 ```
 {% pdf https://drive.google.com/file/d/0B6qSwdwPxPRdTEliX0dhQ2JfUEU/preview %}
