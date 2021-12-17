@@ -15,6 +15,6 @@
   "author": "SRK.Lyu <superalsrk@gmail.com> (http://stackbox.org)",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^1.0.0"
+    "ejs": "^2.5.5"
   }
 }
